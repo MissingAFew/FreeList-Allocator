@@ -5,10 +5,6 @@
 
 namespace MemoryManager
 {
-  //---
-  //--- CORE Functions, these will need to be completed by the applicant
-  //---
-
   // Initialize any data needed to manage the memory pool
   void initializeMemoryManager(void);
 
